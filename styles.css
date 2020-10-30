@@ -1,0 +1,57 @@
+.image {
+  display: block;
+  margin: 0 auto;
+}
+.title {
+  color: black;
+  font-family: 'Times New Roman';
+  text-align: center;
+}
+.cvpic {
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+  border-color: blue;
+  border: 10px solid blue;
+}
+.tomato {
+  color: blue;
+  text-align: center;
+}
+.rose {
+  color: lightpink;
+  text-align: center;
+}
+.subs {
+  text-align: center;
+  font-size: x-large;
+  color: darkslategray;
+  font-family: Arial;
+  font-weight: 350;
+}
+.parrafo {
+  font-family: Arial;
+  text-align: justify;
+  font-weight: bold;
+  font-size: x-large;
+}
+.centro {
+  font-family: Arial;
+  text-align: center;
+}
+.contact {
+  font-size: large;
+  font-family: Arial;
+  color: lightpink;
+  font-weight: bold;
+}
+.container {
+  display: flex;
+}
+.centjust {
+  font-family: Arial;
+  text-justify: distribute;
+}
+.cubo {
+  width: 150px;
+}
