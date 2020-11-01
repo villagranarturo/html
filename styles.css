@@ -55,3 +55,19 @@
 .cubo {
   width: 150px;
 }
+.spooky {
+  font-family: 'Franklin Gothic Medium';
+  color: black;
+  text-align: center;
+}
+.parrafomedio {
+  font-family: Arial;
+  text-align: justify;
+  font-weight: bold;
+  font-size: medium;
+}
+.lista {
+  color: maroon;
+  font-family: Arial;
+  text-align: center;
+}
