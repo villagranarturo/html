@@ -90,6 +90,7 @@
   color: white;
   width: 550px;
   margin-top: 200px;
+  margin-left: 20px;
 }
 .background-color2 {
   background-color: pink;
@@ -98,6 +99,7 @@
   color: white;
   width: 200px;
   margin-top: 200px;
+  margin-left: 20px;
 }
 .box {
   display: flex;
