@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
 .image {
   display: block;
   margin: 0 auto;
@@ -70,4 +72,35 @@
   color: maroon;
   font-family: Arial;
   text-align: center;
+}
+.background-color {
+  background-color: darkblue;
+  width: 218px;
+  height: 500px;
+}
+.circles {
+  display: flexbox;
+  margin-left: 200px;
+  margin-top: 0;
+}
+.paragraph {
+  color: white;
+  width: 550px;
+  margin-top: 200px;
+}
+.background-color2 {
+  background-color: pink;
+}
+.header {
+  color: white;
+  width: 200px;
+  margin-top: 200px;
+}
+.box {
+  display: flex;
+  margin-left: 200px;
+  margin-top: 0;
+}
+.body {
+  font-family: nerko;
 }
