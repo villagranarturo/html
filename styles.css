@@ -80,6 +80,8 @@
   background-color: darkblue;
   width: 218px;
   height: 500px;
+  display: flex;
+  align-items: center;
 }
 .circles {
   display: flexbox;
@@ -88,9 +90,11 @@
 }
 .paragraph {
   color: white;
-  width: 550px;
-  margin-top: 200px;
   margin-left: 20px;
+  width: 450px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 .background-color2 {
   background-color: pink;
@@ -98,7 +102,6 @@
 .header {
   color: white;
   width: 200px;
-  margin-top: 200px;
   margin-left: 20px;
 }
 .box {
