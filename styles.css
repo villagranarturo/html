@@ -87,6 +87,7 @@
   display: flexbox;
   margin-left: 200px;
   margin-top: 0;
+  width: 200px;
 }
 .paragraph {
   color: white;
