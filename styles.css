@@ -78,7 +78,7 @@
 }
 .background-color {
   background-color: darkblue;
-  width: 200px;
+  width: 25%;
   height: 500px;
   display: flex;
   align-items: center;
@@ -87,7 +87,6 @@
   display: flex;
   margin-left: 200px;
   margin-top: 0;
-  width: 200px;
 }
 .paragraph {
   color: white;
