@@ -1,5 +1,5 @@
-/* latin-ext */
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('normalize.css');
 * {
   font-family: 'Nerko One', cursive;
 }
@@ -76,7 +76,7 @@
   font-family: Arial;
   text-align: center;
 }
-.background-color {
+.background-color2 {
   background-color: darkblue;
   width: 25%;
   height: 500px;
@@ -96,7 +96,7 @@
   justify-content: center;
   flex-direction: column;
 }
-.background-color2 {
+.background-color1 {
   background-color: pink;
 }
 .header {
@@ -108,4 +108,31 @@
   display: flex;
   margin-left: 200px;
   margin-top: 0;
+}
+.columns {
+  display: flex;
+}
+.header2 {
+  color: darkblue;
+}
+.box2 {
+  margin-left: 200px;
+}
+.paragraph2 {
+  color: darkblue;
+  width: 50%;
+  padding-top: 200px;
+  padding-top: 200px;
+}
+.background-color3 {
+  background-color: cyan;
+  width: 25%;
+}
+.paragraph3 {
+  color: white;
+  width: 100%;
+  padding-top: 230px;
+  padding-bottom: 170px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
